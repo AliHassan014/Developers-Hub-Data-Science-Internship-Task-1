@@ -42,6 +42,6 @@ The following steps were performed:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- `Task1_Iris_Analysis.ipynb` – Jupyter Notebook containing the analysis.
+- `Task1-checkpoint.ipynb` – Jupyter Notebook containing the analysis.
 - `iris.csv` – Dataset used for analysis.
 - `README.md` – Project documentation.
